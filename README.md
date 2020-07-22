@@ -1,5 +1,7 @@
 ## Hey there, I'm Eddy! 👋🏻
 
+![alt](https://lh3.googleusercontent.com/proxy/S9cqm6Ki-3b5XFZhuhgLQtGPS8OgyNrKrjcvhSfHisCqplLtGtZdzd-s33Io6zaY8R1F4OmDT1z091QuLCjXddQPqaGqnfDrfw)
+
 I'm a dedicated web developer with a background in the legal field, constantly learning and using the latest front-end and back-end technologies. Excited about opportunities where experience can best be leveraged towards working on projects in a team environment. 
 
 ### My contact info is below:
