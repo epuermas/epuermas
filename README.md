@@ -1,6 +1,6 @@
 [comment]: <> (Header)
 <h1 align="center">
-   Hey there, I'm Eddy! 👋🏻
+   Hey there, I'm Eduardo Puermas! 👋🏻
 </h1>
 
 [comment]: <> (Image)
@@ -23,12 +23,12 @@
   <b>and</b>  
   <b> <a href="https://www.linkedin.com/in/epuermas/">LinkedIn</a></b><b>!</b> 
  </b> 
- <br/> 
+ </b> 
  
  [comment]: <> (Logo/Footer)
  <p align="center">
    <a href="https://www.eduardopuermas.com/">
-  <img width="75" src="https://i.imgur.com/KK3xtxv.png">
+  <img width="85" src="https://i.imgur.com/KK3xtxv.png">
    </a>
 </p>
 
