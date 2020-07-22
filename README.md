@@ -19,15 +19,15 @@
 [comment]: <> (Contact-me links)
 <p align="center">
   <b>Feel free to check out my</b> 
-  <b> <a href="https://www.eduardopuermas.com/">Personal Website</a> </b> 
+  <b> <a href="https://www.eduardopuermas.com/" target="_blank" rel="noopener noreferrer">Personal Website</a> </b> 
   <b>and</b>  
-  <b> <a href="https://www.linkedin.com/in/epuermas/">LinkedIn</a></b><b>!</b> 
+  <b> <a href="https://www.linkedin.com/in/epuermas/" target="_blank" rel="noopener noreferrer">LinkedIn</a></b><b>!</b> 
  </b> 
  </b> 
  
  [comment]: <> (Logo/Footer)
  <p align="center">
-   <a href="https://www.eduardopuermas.com/">
+   <a href="https://www.eduardopuermas.com/" target="_blank" rel="noopener noreferrer">
   <img width="85" src="https://i.imgur.com/KK3xtxv.png">
    </a>
 </p>
