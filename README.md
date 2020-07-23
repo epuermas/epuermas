@@ -5,7 +5,7 @@
 
 [comment]: <> (Image)
 <p align="center">
-  <img width="460" src="https://lh3.googleusercontent.com/proxy/S9cqm6Ki-3b5XFZhuhgLQtGPS8OgyNrKrjcvhSfHisCqplLtGtZdzd-s33Io6zaY8R1F4OmDT1z091QuLCjXddQPqaGqnfDrfw">
+  <img width="460" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 </p>
 
 [comment]: <> (Paragraph)
