@@ -28,7 +28,7 @@
  [comment]: <> (Logo/Footer)
  <p align="center">
    <a href="https://www.eduardopuermas.com/" target="_blank" rel="noopener noreferrer">
-  <img width="136" src="https://i.imgur.com/uZlJ0ZH.png">
+  <img width="100" src="https://i.imgur.com/uZlJ0ZH.png">
    </a>
 </p>
 
