@@ -19,8 +19,6 @@
 [comment]: <> (Contact-me links)
 <p align="center">
   <b>Feel free to check out my</b> 
-  <b> <a href="https://www.eduardopuermas.com/" target="_blank" rel="noopener noreferrer">Personal Website</a> </b> 
-  <b>and</b>  
   <b> <a href="https://www.linkedin.com/in/epuermas/" target="_blank" rel="noopener noreferrer">LinkedIn</a></b><b>!</b> 
  </b> 
  </b> 
